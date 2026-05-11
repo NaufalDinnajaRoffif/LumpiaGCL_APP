@@ -1,4 +1,4 @@
-# app_lumpia_gcl
+# App LumpiaGCL
 
 A new Flutter project.
 
